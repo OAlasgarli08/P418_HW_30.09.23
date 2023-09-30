@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\bin\Debug\net6.0\Classwork.exe
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\bin\Debug\net6.0\Classwork.deps.json
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\bin\Debug\net6.0\Classwork.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\bin\Debug\net6.0\Classwork.dll
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\bin\Debug\net6.0\Classwork.pdb
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.dll
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\refint\Classwork.dll
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.pdb
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\Classwork.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\P418_HW_30.09.23\Classword\Classword\obj\Debug\net6.0\ref\Classwork.dll
